@@ -2,8 +2,6 @@ class Dog
  def name = (dogs_name) 
    @name = name
  end
- 
- def 
 end
 
 fido = Dog.new
