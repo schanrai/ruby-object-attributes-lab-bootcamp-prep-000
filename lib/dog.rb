@@ -8,7 +8,7 @@ class Dog
  end 
  
  def breed=(new_value)
-   @breed = new value
+   @breed = new_value
  end
  
  def breed
